@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\PedalSteel.Core\MusicTheory.csproj" />
+    <ProjectReference Include="..\MusicTheory\MusicTheory.csproj" />
   </ItemGroup>
 
 </Project>
